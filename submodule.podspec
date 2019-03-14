@@ -1,8 +1,8 @@
 Pod::Spec.new do |s|
-  s.name     = 'Common'
+  s.name     = 'SubModule'
   s.version  = '0.1.0'
   s.license = 'MIT'
-  s.summary  = 'submodule framework'
+  s.summary  = 'SubModule framework'
   
   s.description      = <<-DESC
   Kakaomobility private Common framework !!!
